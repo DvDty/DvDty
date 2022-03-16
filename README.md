@@ -45,3 +45,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="55" height="55"/></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="55" height="55"/></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="55" height="55"/></a>
+
+<p align="center">
+  <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dvdty&theme=github_dark" />
+</p>
